@@ -1,0 +1,73 @@
+[
+    {
+        "card_id": "cull-1",
+        "filename": "crop-1024.png",
+        "coords": [
+            [713, 859],
+            [155, 791],
+            [801, 87],
+            [265, 29]
+        ]
+    },
+    {
+        "card_id": "painful-passage-1",
+        "filename": "crop-1024_1.png",
+        "coords": [
+            [690, 886],
+            [167, 845],
+            [757, 165],
+            [235, 114]
+        ]
+    },
+    {
+        "card_id": "deathly-wail-3",
+        "filename": "crop-1024_2.png",
+        "coords": [
+            [828, 919],
+            [191, 906],
+            [862, 1],
+            [179, 0]
+        ]
+    },
+    {
+        "card_id": "deathly-delight-1",
+        "filename": "crop-1024_3.png",
+        "coords": [
+            [579, 924],
+            [87, 726],
+            [846, 257],
+            [381, 47]
+        ]
+    },
+    {
+        "card_id": "deadwood-dirge-1",
+        "filename": "crop-1024_4.png",
+        "coords": [
+            [712, 733],
+            [278, 773],
+            [646, 183],
+            [246, 180]
+        ]
+    },
+    {
+        "card_id": "haunting-rendition-1",
+        "filename": "crop-1024_5.png",
+        "coords": [
+            [566, 743],
+            [125, 864],
+            [435, 219],
+            [22, 231]
+        ]
+    },
+    {
+        "card_id": "mauvrion-skies-1",
+        "filename": "crop-1024_6.png",
+        "coords": [
+            [693, 780],
+            [234, 887],
+            [601, 181],
+            [178, 119]
+        ]
+    }
+]
+
